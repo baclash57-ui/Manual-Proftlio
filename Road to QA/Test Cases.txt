@@ -1,0 +1,171 @@
+## Test Case 1: Navigate From Homepage to Course Enrollment Page
+
+**Test Case ID:** TC_001
+
+**Test Case Title:** Verify user can navigate from homepage to the course enrollment page
+
+**Description:**
+
+This test case validates that a user can successfully navigate from the homepage to the course enrollment page using the available homepage links.
+
+**Preconditions:**
+
+- User has a working Instagram account
+
+Test Steps:
+
+1. Launch the road to QA link
+2. Click on the” Lock in your last chance enrollment seat”
+
+**Expected Result:**
+
+The user is redirected to the course enrollment page displaying accurate course information and enrollment options without errors.
+
+**Actual Results** 
+
+The user is redirected to the course enrollment page displaying accurate course information and enrollment options without errors.
+
+**Status** 
+
+PASSED 
+
+---
+
+## Test Case 2: View Course Details Before Enrollment
+
+**Test Case ID:** TC_002
+
+**Test Case Title:** Verify user can view course details prior to enrollment
+
+**Description:**
+
+This test case ensures that users can view detailed course information before deciding to enroll.
+
+**Preconditions:**
+
+- User is on the course enrollment page
+- User is not enrolled in the course
+
+**Test Steps:**
+
+1. Navigate to the course enrollment page from the homepage.
+2. Review the displayed course information, including title, description, and learning objectives.
+3. Scroll through the page to view additional course details, if available.
+
+**Expected Result:**
+
+The elements of the homepage are well arranged and the user can enroll for the program 
+
+**Actual results** 
+
+The elements of the homepage are well arranged and the user can enroll for the program
+
+**Status**
+
+PASSED 
+
+---
+
+## Test Case 3: Access Reviews and User Success Stories
+
+**Test Case ID:** TC_003
+
+**Test Case Title:** Verify user can view reviews and success stories
+
+**Description:**
+
+This test case validates that users can access and view reviews and success stories from previous learners.
+
+**Preconditions:**
+
+- User is on the homepage or course information page
+
+**Test Steps:**
+
+1. Navigate to the reviews or user success stories section.
+2. Scroll through the section to view multiple reviews.
+3. Click on any available read more or similar options 
+
+**Expected Result:**
+
+User reviews and success stories are displayed correctly, with readable text and no missing or distorted content.
+
+**Actual Results** 
+
+The user reviews and success stories are displayed correctly 
+
+And in  the right arrangements 
+
+**Status**
+
+PASSED
+
+---
+
+## Test Case 4: Verify Videos in User Stories Section Load Correctly
+
+**Test Case ID:** TC_004
+
+**Test Case Title:** Verify videos in user stories section load and play successfully
+
+**Description:**
+
+This test case ensures that testimonial videos within the user stories section load and function as expected.
+
+**Preconditions:**
+
+- User is on the homepage or user stories section
+- Stable internet connection is available
+
+**Test Steps:**
+
+1. Navigate to the user stories section.
+2. Select a testimonial video.
+3. Click the play button.
+4. Observe the video playback behavior.
+
+**Expected Result:**
+
+The video loads within an acceptable time and plays smoothly without buffering issues or errors.
+
+**Actual** **Results** 
+
+Some videos seize after a few seconds 
+
+**Status**
+
+FAILED
+
+## Test Case 5: Verify Images in User Stories Section Display Properly
+
+**Test Case ID:** TC_005
+
+**Test Case Title:** Verify images in user stories section display correctly
+
+**Description:**
+
+This test case validates that all images within the user stories section render properly across the page.
+
+**Preconditions:**
+
+- User is on the homepage or user stories section
+
+**Test Steps:**
+
+1. Navigate to the user stories section.
+2. Observe all displayed images.
+3. Resize the browser window to different screen widths.
+
+**Expected Result:**
+
+All images load successfully, remain clear, and adjust appropriately to screen size.
+
+**Actual Results** 
+
+All images load successfully, remain clear, and adjust appropriately to screen size.
+
+**Status** 
+
+PASSED
+
+---

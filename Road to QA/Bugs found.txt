@@ -1,0 +1,51 @@
+Bug ID: BG-RTQA  001
+
+---
+
+## Bug Report
+
+**TITLE**
+
+Several videos in the Testimonial section do not finish playing
+
+**DESCRIPTION**
+
+Multiple testimonial videos on the homepage stop playing before reaching the end. This interrupts content consumption and may reduce user trust and conversion, as testimonials are critical for credibility and decision-making.
+
+**ENVIRONMENT**
+
+- Browser: Google Chrome
+- Version: Latest
+- Device: Desktop and mobile phone
+- OS: Windows 11 and Android 12 Go
+- Network: WIFI and Mobile data (4G)
+
+**PRIORITY**
+
+High
+
+**SEVERITY**
+
+Major
+
+**PRECONDITIONS**
+
+- User is on the Road to QA homepage
+- User has a stable internet connection
+
+**STEPS TO REPRODUCE**
+
+1. Navigate to the Road to QA homepage
+2. Click On the “lock in your last engagement seat” button
+3. On the new page,scroll down to the testimonial section 
+4. Click on any testimonial video to start playback
+5. Allow the video to play without interacting
+6. Observe the video behavior near the end of playback
+
+**EXPECTED RESULTS**
+
+The testimonial video should play smoothly from start to finish without stopping or freezing.
+
+**ACTUAL RESULTS**
+
+The video stops playing before completion and does not reach the end of the content.
