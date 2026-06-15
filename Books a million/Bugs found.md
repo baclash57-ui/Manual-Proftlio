@@ -34,7 +34,8 @@ One or more product listings on the SRP display broken images instead of the cor
 
 This issue is reproduceable in the filter section after applying multiple filters in the SRP
 
-<img width="1284" height="590" alt="broken image booksa million" src="https://github.com/user-attachments/assets/7cc72e19-02df-46d6-82dc-c6d59717ea89" />
+
+<img width="1284" height="590" alt="image" src="https://github.com/user-attachments/assets/55004a9a-52e6-47b2-a1a5-edddb454f537" />
 
 
 ---
@@ -80,7 +81,8 @@ The SRP displays a "No Results Found" message despite the ISBN being valid and t
 
 The user can search for the book using its title or author name instead of the ISBN number to locate the product successfully
 
-<img width="1892" height="964" alt="search query" src="https://github.com/user-attachments/assets/30ee3ea7-5f7e-4189-9520-225c4815757d" />
+
+<img width="1892" height="964" alt="image" src="https://github.com/user-attachments/assets/ee5799ea-41e3-493f-85f8-7bb65e10a968" />
 
 ---
 
