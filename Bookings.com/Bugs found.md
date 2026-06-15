@@ -29,10 +29,10 @@ After changing the site language, several sections on the Attractions page conti
 **Actual Result:**
 
  Several sections on the Attractions page continue to display content in other languages despite the language change being applied
+ 
+ <img width="1907" height="951" alt="image" src="https://github.com/user-attachments/assets/b7f5f59d-4e73-4591-8eb0-878aac127bb5" />
 
-<img width="1907" height="951" alt="image" src="https://github.com/user-attachments/assets/fec6dc25-0f54-4ad8-9730-de04ba94934c" />
-
-<img width="1897" height="963" alt="image 2" src="https://github.com/user-attachments/assets/f5f6761a-92c1-4afa-aa44-121ef86bf6a1" />
+<img width="1897" height="963" alt="image 2" src="https://github.com/user-attachments/assets/9581e62c-ea23-47f3-b2bf-9e7496357080" />
 
 ---
 
@@ -64,8 +64,7 @@ After changing the site language, several sections on the Attractions page conti
 
 **Actual Result:** Several sections on the destination listing page do not display prices in the user's local currency
 
-<img width="1917" height="920" alt="image 3" src="https://github.com/user-attachments/assets/9f271b92-3560-4ce5-9149-659bc7367ae5" />
-
+<img width="1917" height="920" alt="image 3" src="https://github.com/user-attachments/assets/e27cc758-c17e-455e-91f2-535d8303c430" />
 
 ---
 
@@ -99,6 +98,7 @@ The user is able to change the currency freely at any point on the site and retu
 
 **Actual Result:** The user is unable to change the currency back to their local currency after switching it 
 
-<img width="1890" height="909" alt="image currency" src="https://github.com/user-attachments/assets/db211815-f6c4-4571-83e5-6a26b9922cb0" />
+<img width="1890" height="909" alt="image currency" src="https://github.com/user-attachments/assets/c2e18ab0-6203-4af1-afb5-984fccd84530" />
 
-<img width="1917" height="1054" alt="currency 2" src="https://github.com/user-attachments/assets/c72f1e2e-74c9-4c11-8ea8-f8aefe6917a8" />
+<img width="1917" height="1054" alt="currency 2" src="https://github.com/user-attachments/assets/7146d7e8-8305-4935-b3b6-7a86f9fe760e" />
+
