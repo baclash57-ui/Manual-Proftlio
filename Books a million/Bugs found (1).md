@@ -117,7 +117,7 @@ When a user attempts to proceed to checkout after adding items to the cart, they
 
 The user is blocked from proceeding to checkout and is redirected to an error page displaying the following message: "Sorry, you have been blocked. You are unable to access booksamillion.com." The user is completely unable to complete their purchase.
 
-<img width="1899" height="910" alt="check out section" src="https://github.com/user-attachments/assets/88f342d9-fc74-47c9-a81a-914953ef3600" />
+<img width="1899" height="910" alt="image" src="https://github.com/user-attachments/assets/20a5a044-aed3-4cc2-b7b5-3ef48c3330ff" />
 
 ---
 
@@ -159,7 +159,8 @@ The site intermittently triggers a CAPTCHA or human verification check every 5 t
 
 This issue is likely related to the platform's bot detection or security configuration being overly aggressive, incorrectly flagging normal user behaviour as suspicious activity. This is consistent with the block error observed in BR_CART_001 during checkout, suggesting both issues may share the same root cause in the platform's security layer. It is recommended that the security configuration be reviewed to better distinguish between legitimate user activity and actual bot behaviour
 
-<img width="1897" height="1025" alt="image" src="https://github.com/user-attachments/assets/5d228048-77e5-45d3-9052-083f83eeccfd" />
+
+<img width="1897" height="1025" alt="Screenshot 2026-06-12 105552" src="https://github.com/user-attachments/assets/8e0018b1-3ec8-4387-8b7a-5fc90f239ae9" />
 
 ---
 
@@ -192,7 +193,8 @@ This issue is likely related to the platform's bot detection or security configu
 
 **Actual Result:** The previously removed item reappears in the cart after the user clicks the browser back button, restoring the cart to its previous state before the item was removed
 
-!browser back booksamillion.png
 
-<img width="1905" height="1003" alt="browser back booksamillion" src="https://github.com/user-attachments/assets/9d02b90c-207f-4bc6-9286-a754615688ba" />
+<img width="1905" height="1003" alt="image" src="https://github.com/user-attachments/assets/4077bbca-6318-4053-8aa7-4c36d7fee386" />
 
+
+<img width="1905" height="1003" alt="image" src="https://github.com/user-attachments/assets/fde8c46e-c321-4ac8-af42-67cacea28625" />
