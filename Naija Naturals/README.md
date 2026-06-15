@@ -1,9 +1,5 @@
 \**Overview**
-
-
-
-<img width="1910" height="915" alt="image" src="https://github.com/user-attachments/assets/4031ae5a-c177-4fae-b59f-6fa8d6df6891" />
-
+<img width="1918" height="931" alt="Screenshot 2026-02-24 123855" src="https://github.com/user-attachments/assets/75d9e0ba-cf66-466f-b29b-816a745a5b0c" />
 
 
 NN Hair & Beauty is a local e-commerce store that sells hair products, mostly for women. They offer both in-store and door-to-door delivery options for users and allow them to compare products. They serve as Nigeria's leading beauty store with a primary focus on hair care products and equipment.
