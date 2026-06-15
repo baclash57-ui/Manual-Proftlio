@@ -196,7 +196,8 @@ This issue is likely related to the platform's bot detection or security configu
 **Actual Result:** The previously removed item reappears in the cart after the user clicks the browser back button, restoring the cart to its previous state before the item was removed
 
 
-<img width="1905" height="1003" alt="image" src="https://github.com/user-attachments/assets/4077bbca-6318-4053-8aa7-4c36d7fee386" />
+
+<img width="1912" height="1014" alt="booking back button" src="https://github.com/user-attachments/assets/aa047b77-c825-4e4d-aed5-9a102377b7fb" />
 
 
 <img width="1905" height="1003" alt="image" src="https://github.com/user-attachments/assets/fde8c46e-c321-4ac8-af42-67cacea28625" />
