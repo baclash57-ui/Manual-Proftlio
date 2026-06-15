@@ -22,7 +22,7 @@
 
 **Actual Result:** The user is incorrectly redirected to the FAQ page instead of the expected delivery-related page
 
-<img width="1918" height="931" alt="Nn issue FAQ redirect" src="https://github.com/user-attachments/assets/22ae367e-a2e6-4602-9864-76532ebc878a" />
+<img width="1918" height="931" alt="Nn issue FAQ redirect" src="https://github.com/user-attachments/assets/993d36d4-7cb1-48ca-8cc7-5acf2432e370" />
 
 ---
 
@@ -58,6 +58,6 @@
 
 The SRP displays items that are unrelated to hair dye alongside the items searched for
 
-<img width="1404" height="3202" alt="hair dyes issue" src="https://github.com/user-attachments/assets/108a476b-438e-4c63-8323-0bfbcdcbcd21" />
+<img width="1404" height="3202" alt="hair dyes issue" src="https://github.com/user-attachments/assets/fc41e994-3d10-4368-9b46-7985b7b3776d" />
 
 ---
